@@ -2,4 +2,4 @@
 
 -------------
 
-Java Project
+Java Blog Project
